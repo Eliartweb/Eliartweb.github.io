@@ -1,0 +1,25 @@
+.send{
+    border: 1px solid black;
+    background: black;
+    color: #fff;
+    border-radius: 0;
+    transition: 1s all;
+}
+.send:hover{
+    background: none;
+    color: black;
+    border-radius: 2px;
+}
+.bord{
+    border: 1px solid blue;
+}
+.br{
+    border-radius: 0px;
+    border-bottom: 0.5px solid black;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.contact-details{
+    list-style-type: none;
+}
